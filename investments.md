@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Investment Opportunities
-permalink: /opportunity/
+permalink: /investments/
 ---
 
 ## Curated Picks. Strategic Potential.
