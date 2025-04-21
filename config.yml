@@ -1,10 +1,10 @@
-title: MSquareCo Real Estate
-baseurl: "/webapp" # use this if it's a project page
+title: MsquareCo
+description: Strategic Real Estate Investments in Dubai
+baseurl: ""
+url: "https://msquareco.github.io"
 markdown: kramdown
 theme: minima
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: default
+permalink: pretty
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap

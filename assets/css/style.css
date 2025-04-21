@@ -1,0 +1,66 @@
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #fefefe;
+  color: #1a1a1a;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  font-family: 'Playfair Display', serif;
+  color: #2c2c2c;
+  margin-top: 1em;
+}
+
+.container {
+  width: 90%;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 2rem 0;
+}
+
+.site-header, .site-footer {
+  background-color: #fafafa;
+  border-top: 4px solid #ccc;
+  padding: 1rem 0;
+  text-align: center;
+}
+
+.logo a {
+  font-family: 'Playfair Display', serif;
+  font-size: 2rem;
+  color: #1a1a1a;
+  text-decoration: none;
+}
+
+.nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+.nav a {
+  color: #444;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.nav a:hover {
+  text-decoration: underline;
+  color: #000;
+}
+
+main {
+  padding: 2rem 0;
+}
+
+.site-footer p {
+  font-size: 0.9rem;
+  color: #666;
+  margin: 0;
+}
