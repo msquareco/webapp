@@ -1,0 +1,10 @@
+title: MSquareCo Real Estate
+baseurl: "/webapp" # use this if it's a project page
+markdown: kramdown
+theme: minima
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
