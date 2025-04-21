@@ -1,13 +1,14 @@
 title: MsquareCo
-description: Strategic Real Estate Investments in Dubai
-baseurl: ""
+description: Your trusted partner for real estate in Dubai from Hyderabad.
+baseurl: "/webapp" # very important for GitHub Pages if your repo is NOT username.github.io
 url: "https://msquareco.github.io"
+
 markdown: kramdown
-theme: minima
-permalink: pretty
+theme: minima # or your custom theme if any
 plugins:
+  - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-sitemap
+
 collections:
   pages:
     output: true
