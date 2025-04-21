@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Insights & Blog
+permalink: /blog/
 ---
 
 <h2>Latest Posts</h2>
