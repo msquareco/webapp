@@ -8,3 +8,6 @@ permalink: pretty
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+collections:
+  pages:
+    output: true
